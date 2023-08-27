@@ -1,7 +1,7 @@
 ## Welcome to Ballroom 👋
 
 <h1 align="center">
-  <center><img height="512" width="999" src="./logo-black.png" alt="Ballroom Logo"/></center>
+  <center><img height="512" width="999" src="./profile/logo-black.png" alt="Ballroom Logo"/></center>
 </h1>
 
 "Ballroom" – a cutting-edge project evaluation platform that sets a new standard for talent assessment. 
@@ -17,7 +17,7 @@ Ballroom provides the following core functionalities,
 ## Architecture
 
 <h1 align="left">
-  <center><img height="512" width="740" src="ballroom_architecture_diagram.png" alt="Ballroom Architecture Diagram"/></center>
+  <center><img height="512" width="740" src="./profile/ballroom_architecture_diagram.png" alt="Ballroom Architecture Diagram"/></center>
 </h1>
 
 "Ballroom" embodies a sophisticated technical architecture designed to foster innovation, scalability, and security. The platform's backend is meticulously modularized into seven autonomous services, empowering enhanced maintainability and scalability.
