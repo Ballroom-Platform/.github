@@ -32,13 +32,16 @@ Ballroom provides the following core functionalities,
 
 You can use the resources below to deploy and run the Ballroom platform.
 
+* [Build and deploy the Ballroom backend services](https://github.com/Ballroom-Platform/ballroom-backend/blob/m2/README.md)
+* [Build and run the Ballroom frontend webapp](https://github.com/Ballroom-Platform/ballroom-frontend/blob/m2/README.md)
+
 ## Contribute to Ballroom
 
 "Ballroom" is an open-source evaluation platform. The ballroom welcomes contributions from the community.
 
 ## License
 
-## Useful links
+Ballroom code is distributed under the [Apache license 2.0].
 
 
 <!--
