@@ -1,7 +1,7 @@
 ## Welcome to Ballroom 👋
 
 <h1 align="center">
-  <center><img height="512" width="999" src="./profile/logo-black.png" alt="Ballroom Logo"/></center>
+  <center><img height="512" width="999" src="./profile/ballroom-logo.png" alt="Ballroom Logo"/></center>
 </h1>
 
 "Ballroom" – a cutting-edge project evaluation platform that sets a new standard for talent assessment. 
